@@ -1,0 +1,386 @@
+Q 1 ANS - A unit is a standard quantity used to measure a physical quantity. It provides a common reference point for comparison and communication of measurements.   
+
+Properties of a Unit:
+
+Universality: A unit should be universally accepted and recognized to ensure consistency in measurements across different locations and time periods.   
+Precision: A unit should be defined with sufficient precision to allow for accurate measurements.   
+Convenience: A unit should be of a convenient size for practical applications. It should not be too large or too small.
+Reproducibility: A unit should be reproducible, meaning it can be recreated or replicated with the same level of accuracy.
+Consistency: A unit should be consistent with other units in a system of measurement. For example, units of length, mass, and time should be related in a consistent way.
+
+
+
+2) Uses of Dimensional Analysis
+
+Error Checking: It helps verify the dimensional consistency of physical equations, ensuring correctness.
+Unit Conversion: Assists in converting units across different measurement systems (e.g., meters to feet).
+Deriving Relationships: Dimensional analysis can establish relationships among physical quantities even without complete formulas.
+Simplification: By identifying fundamental units, it reduces the complexity of physical problems.
+Predictive Power: It can predict the form of relationships in new, unexplored physical phenomena.
+3) Example on Significant Figures & Error
+
+Significant Figures: These are digits that carry meaning and precision in a measurement. For example, in 0.00450 kg, the significant figures are 4, 5, and 0, totaling three significant figures.
+Types of Error:
+Absolute Error: The difference between the measured and actual value. E.g., if the measured length is 5.26 cm and the actual is 5.20 cm, the absolute error is 0.06 cm.
+Relative Error: The absolute error divided by the actual value.
+Percentage Error: Relative error multiplied by 100 to express in percentage form.
+4) Prove the Parallelogram Law of Vector Addition
+
+Statement: The law states that if two vectors are represented as adjacent sides of a parallelogram, the diagonal represents their resultant.
+Proof: Let vectors A and B be positioned with a common point. The parallelogram is completed by drawing vectors equal to A and B from the other ends. The diagonal R represents the sum.
+Mathematics:
+𝑅
+=
+𝐴
++
+𝐵
+R=A+B
+Use trigonometry for exact values.
+Conclusion: The resultant vector lies along the diagonal, proving the parallelogram law.
+5) Numerical on Vector Product
+
+Example Problem: Calculate the cross product of vectors A = 3i + 4j and B = 2i + 5j.
+Solution: Use the determinant form to find 
+𝐴
+⃗
+×
+𝐵
+⃗
+A
+ × 
+B
+ .
+|i j k| |3 4 0| |2 5 0| = (0i - 0j + 7k) = 7k.
+Result: 
+𝐴
+⃗
+×
+𝐵
+⃗
+=
+7
+𝑘
+A
+ × 
+B
+ =7k, which shows the magnitude and direction of the vector product.
+6) Kepler's Laws of Planetary Motion
+
+Law of Orbits: Each planet moves in an elliptical orbit, with the Sun at one focus.
+Law of Areas: A line joining a planet to the Sun sweeps out equal areas in equal times.
+Law of Periods: The square of a planet’s orbital period is proportional to the cube of the semi-major axis of its orbit, 
+𝑇
+2
+∝
+𝑟
+3
+T 
+2
+ ∝r 
+3
+ .
+Importance: These laws describe planetary motion, predict orbital behavior, and form the basis for understanding celestial mechanics.
+7) Define Binding Energy, Escape Velocity, and Critical Velocity
+
+Binding Energy: The minimum energy required to remove an object from a gravitational field (e.g., Earth’s surface).
+Escape Velocity: Minimum speed for an object to escape a planet’s gravity. For Earth, it’s about 11.2 km/s.
+Critical Velocity: Speed at which a satellite must travel to maintain a stable orbit, balancing gravitational pull and centrifugal force.
+8) Geostationary Satellite and its Applications
+
+Definition: A satellite that orbits Earth at the equator with an orbital period equal to Earth's rotation (24 hours). It appears stationary relative to a fixed point.
+Altitude: Approximately 35,786 km.
+Applications: Used in telecommunications, broadcasting, GPS, and weather forecasting. It ensures continuous monitoring of a specific area.
+9) Newton's Law of Gravitation in Vector Form
+
+Statement: Every point mass attracts every other point mass with a force proportional to the product of their masses and inversely proportional to the square of the distance.
+Vector Form:
+𝐹
+⃗
+=
+−
+𝐺
+𝑚
+1
+𝑚
+2
+𝑟
+2
+𝑟
+^
+F
+ =− 
+r 
+2
+ 
+Gm 
+1
+​
+ m 
+2
+​
+ 
+​
+  
+r
+^
+ 
+Interpretation: The vector form gives direction (attractive force) and allows calculating gravitational force between bodies.
+10) Expression for Escape Speed from Earth's Surface
+
+Escape Speed 
+𝑣
+𝑒
+=
+2
+𝐺
+𝑀
+𝑅
+v 
+e
+​
+ = 
+R
+2GM
+​
+ 
+​
+ , where 
+𝐺
+G is the gravitational constant, 
+𝑀
+M is Earth’s mass, and 
+𝑅
+R is Earth’s radius.
+Derivation: Equate kinetic energy 
+1
+2
+𝑚
+𝑣
+2
+2
+1
+​
+ mv 
+2
+  to gravitational potential energy 
+𝐺
+𝑀
+𝑚
+𝑅
+R
+GMm
+​
+  and solve for 
+𝑣
+v.
+Interpretation: This is the speed required to overcome Earth's gravity without further propulsion.
+11) Expression for Critical Velocity of an Orbiting Satellite
+
+Formula: 
+𝑣
+𝑐
+=
+𝐺
+𝑀
+𝑟
+v 
+c
+​
+ = 
+r
+GM
+​
+ 
+​
+ .
+Derivation: Set gravitational force equal to centripetal force for a satellite in circular orbit.
+Dependency: Critical velocity depends on gravitational constant 
+𝐺
+G, Earth’s mass 
+𝑀
+M, and orbital radius 
+𝑟
+r.
+12) Define Transverse Wave and State its Characteristics
+
+Definition: A wave where particle displacement is perpendicular to the wave’s direction.
+Characteristics:
+Contains crests (high points) and troughs (low points).
+Has measurable wavelength and frequency.
+Amplitude measures the maximum particle displacement.
+13) Define Longitudinal Wave and State its Characteristics
+
+Definition: A wave where particles oscillate parallel to the wave’s direction.
+Characteristics:
+Compressions (high pressure) and rarefactions (low pressure).
+Wavelength and frequency define properties.
+Sound waves are common longitudinal waves.
+14) Common Properties of Waves
+
+Reflection: Bouncing off surfaces.
+Refraction: Bending when moving through different media.
+Diffraction: Spreading around obstacles.
+Interference: Waves superimpose to form new wave patterns.
+Polarization: Restricting wave vibrations to a specific direction (for transverse waves).
+15) Doppler Effect
+
+Definition: The change in frequency or wavelength due to relative motion between source and observer.
+Application: Used in radar, medical imaging, and astronomy to measure speed or distance changes.
+16) Coulomb's Law
+
+Statement: The electrostatic force 
+𝐹
+F between two charges 
+𝑞
+1
+q 
+1
+​
+  and 
+𝑞
+2
+q 
+2
+​
+  is proportional to the product of their magnitudes and inversely proportional to the square of the distance between them.
+Formula: 
+𝐹
+=
+𝑘
+𝑞
+1
+𝑞
+2
+𝑟
+2
+F=k 
+r 
+2
+ 
+q 
+1
+​
+ q 
+2
+​
+ 
+​
+ .
+17) Electric Field Due to a Point Charge
+
+Formula: 
+𝐸
+=
+𝑘
+𝑄
+𝑟
+2
+E= 
+r 
+2
+ 
+kQ
+​
+ , where 
+𝑘
+k is Coulomb's constant and 
+𝑄
+Q is the point charge.
+Derivation: Based on the force exerted on a unit positive charge at distance 
+𝑟
+r from 
+𝑄
+Q.
+18) Gauss’s Theorem
+
+Statement: The net electric flux through a closed surface equals 
+1
+𝜖
+0
+ϵ 
+0
+​
+ 
+1
+​
+  times the total charge enclosed.
+Application: Simplifies electric field calculations for symmetric charge distributions.
+19) Characteristics of Electric Lines of Force
+
+Originate from positive charges and terminate at negative charges.
+Never intersect.
+The density of lines indicates field strength.
+20) Resistance in Series & Parallel
+
+Series: 
+𝑅
+𝑠
+=
+𝑅
+1
++
+𝑅
+2
++
+.
+.
+.
+R 
+s
+​
+ =R 
+1
+​
+ +R 
+2
+​
+ +...
+Parallel: 
+1
+𝑅
+𝑝
+=
+1
+𝑅
+1
++
+1
+𝑅
+2
++
+.
+.
+.
+R 
+p
+​
+ 
+1
+​
+ = 
+R 
+1
+​
+ 
+1
+​
+ + 
+R 
+2
+​
+ 
+1
+​
+ +...
+21) Ohm's Law and its Limitations
+
+Statement: 
+𝑉
+=
+𝐼
+𝑅
+V=IR.
+Limitations: Not applicable for non-ohmic materials or very high current conditions.
+22) Example on Color Code Resistor
+
+Color Code: A resistor with red, violet, yellow, and gold bands represents 27 kΩ with 5% tolerance.
